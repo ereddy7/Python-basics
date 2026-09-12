@@ -1,7 +1,6 @@
 x=[10,20,20,30]
 print(x)
 print(len(x),x.count(20),x.index(20))
-
 x.append(40); 
 print(x)
 x.insert(1,15); 
